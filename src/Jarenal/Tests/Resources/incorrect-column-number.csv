@@ -1,0 +1,5 @@
+product_code,quantity,pick_location,foo
+15248,10,AB 10,a
+25636,1,C 8,b
+26982,1,AF 7,c
+36389,4,AC 5,d

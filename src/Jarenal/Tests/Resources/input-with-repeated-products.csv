@@ -1,0 +1,8 @@
+product_code,quantity,pick_location
+100,10,AB 10
+102,1,C 6
+104,1,AF 7
+103,1,C 8
+101,10,AB 8
+100,5,AB 10
+105,1,AF 3
